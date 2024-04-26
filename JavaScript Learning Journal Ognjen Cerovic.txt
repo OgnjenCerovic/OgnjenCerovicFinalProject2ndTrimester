@@ -1,0 +1,19 @@
+Week 1-4: JS Fundamentals
+
+In the first month of my JavaScript (JS) course, we focused on the basics of the basics if i can say it like that. We learned about variables, data types, and how to perform simple tasks. Understanding these fundamentals gave me a solid vision of what would this trimester look like.
+
+Week 5-7: JS DOM Control
+
+So these weeks for focused on exploring how JavaScript interacts with web pages through the Document Object Model (DOM). We learned how to manipulate HTML elements and handle events like clicks and input changes. It was great to see how we could make our web pages more interactive using JS and it started getting mroe interesting.
+
+Week 8-10: JS Advanced
+
+In the following weeks, we went into more advanced JavaScript things. We learned about functions, arrays, objects, and how to work with them in the right way. Understanding these concepts helped us write cleaner and more efficient code.
+
+Week 11-13: JS Final Project
+
+The last three weeks of the course were dedicated to our final project. We had the opportunity to apply everything we learned throughout the course to build a complete JavaScript application. It was challenging but really fun to see how much I've progressed during this trimester.
+
+Reflection:
+
+Looking back on my JavaScript learning journey, I'm amazed at how much I've developed my knowledge in just a few weeks. From understanding the basics to building interactive web applications, this course has been a great experience. I feel more confident in my coding abilities and i'm looking forward for the future.

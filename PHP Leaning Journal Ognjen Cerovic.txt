@@ -1,0 +1,27 @@
+Week 1-5: Introduction to PHP
+
+In the first five weeks of my PHP course, we gone through the basics. We learned about variables, data types, operators, and control structures. Understanding these fundamentals was essential for moving forward in PHP development, which was really challenging!
+
+Week 6-7: Database and MySQL
+
+For the next two weeks, we focused on databases and MySQL. We learned how to connect PHP to a database, perform basic operations, and execute SQL queries. All of this help us to understand a new perception of PHP and what to do with it.
+
+Week 8: CMS Development
+
+In week 8, we explored Content Management Systems (CMS) development using PHP. We learned about the principles behind CMS platforms and how to create basic CMS functionalities from the very start. It was amazing to see how PHP powers the backend of popular CMS systems.
+
+Week 9-10: WordPress Development
+
+The following two weeks were dedicated to WordPress development. We learned how to build custom themes and plugins using PHP. Getting to know WordPress development opened up new opportunities for creating dynamic and scalable websites.
+
+Week 11-13: PHP OOP
+
+In weeks 11 to 13, we dived into Object-Oriented Programming (OOP) in PHP. We learned about classes, objects, inheritance, encapsulation, and polymorphism which helped us write more organized and maintainable code in PHP projects.
+
+Week 14: Server Administration
+
+The final week of the course focused on server administration tasks related to PHP. We learned about server configurations, security practices, and performance optimization techniques which finally led to us to understanding all the possibilites of PHP and how powerful PHP is.
+
+Reflection:
+
+Reflecting on my PHP learning journey, I'm amazed at how much I've learned in a relatively short period.  I'm excited to continue exploring PHP and expanding my knowledge further. It is a long but really exciting run!
