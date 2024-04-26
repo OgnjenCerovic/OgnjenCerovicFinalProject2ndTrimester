@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Mega:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+
+:root {
+    --MEGA: 'Lexend Mega';
+    --Belle: 'La Belle Aurore';
+    --Nothing: 'Nothing You Could Do';
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 15px;
+    min-width: 576px;
+}
+
+.main {
+    background: url('../assets/images/backgroundnajnovi.jpg');
+    background-repeat: repeat;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+
+}
+
+a:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+
+img {
+    display: block;
+    width: 100%;
+}
+
+.pizza-img img {
+    width: 300px;
+    height: 300px;
+}
+
+.flag {
+    width: 30%;
+
+}
+
+.flag img {
+    width: 100px;
+    height: 50px;
+
+}
+
+
+.nav {
+    font-family: var(--MEGA);
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    background-color: #122f1a;
+    padding: 20px;
+    color: white;
+}
+
+
+.greeting {
+    font-family: var(--MEGA) !important;
+    display: flex !important;
+    align-items: center !important;
+    width: 100%;
+    height: 60px;
+    background-color: #122f1a !important;
+    padding: 20px;
+    color: white;
+}
+.work-time {
+    width: 30%;
+    text-align: end;
+}
+
+.nav-items {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.card img {
+    width: 180px;
+    height: 180px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--MEGA);
+    gap: 13px;
+}
+
+.footer {
+    background-color: #122f1a;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.card p {
+    width: 500px;
+    text-align: center;
+}
+
+.footer-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-icon-section {
+    padding: 20px;
+}
+
+.footer-photo {
+    width: 150px;
+}
+
+.logo-text h3 {
+    color: white;
+    margin-top: 20px;
+    font-size: 12px;
+    letter-spacing: 4px;
+    font-family: var(--MEGA);
+
+}
+

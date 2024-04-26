@@ -1,0 +1,66 @@
+.pizzeria-photos {
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 50px;
+}
+
+.pizzeria-photo img {
+    width: 500px;
+    height: 333px;
+}
+
+.about-h1 {
+    margin: 0;
+    padding: 0;
+    padding: 40px;
+}
+
+.placeholder-div {
+    height: 50px;
+}
+
+.about-section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.about-section h1 {
+    font-family: var(--Nothing);
+    font-size: 40px;
+}
+
+
+.about-section p {
+    text-align: center;
+    font-family: var(--MEGA);
+    width: 800px;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.about-pictures {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-picture img {
+    width: 700px;
+    height: 600px;
+}
+
+.it-flag{
+    width: 350px;
+}
+
+.fizikalisanje1 {
+    margin-right: 50px;
+}
+
+.fizikalisanje2 {
+    margin-left: 50px;
+}

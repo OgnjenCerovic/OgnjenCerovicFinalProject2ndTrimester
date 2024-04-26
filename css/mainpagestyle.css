@@ -1,0 +1,81 @@
+.logo-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 150px;
+}
+
+.logo-section p {
+    font-family: var(--Belle);
+    font-size: 50px;
+}
+
+.logo-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: start;
+}
+
+.logo {
+    width: 200px;
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.block-image {
+    background-image: url('../assets/images/blockpizza.jpg');
+    height: 300px;
+}
+
+.pizzaiolo h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Lexend Mega';
+}
+
+.chefs img {
+    width: 333px;
+    height: 333px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Lexend Mega';
+}
+
+
+.pizzaiolo {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+    padding: 40px;
+
+}
+
+.chefs h2 {
+    font-family: var(--MEGA);
+}
+
+.chefs p {
+    font-family: var(--Belle);
+    font-size: 30px;
+    margin-inline: 100px;
+}
+
+.chefs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
